@@ -1,0 +1,345 @@
+p tag's : tedad 4
+                    
+                    <!-- نمونه تگ p استخراج شده از سایت -->
+<p class="by-bold text-primary">قوانین مهم روبیکا</p>
+                    <p>روبیکا برای اعتماد و امنیت شما اهمیت زیادی قائل است. اگر کاربر روبیکا هستید، برای حفظ حریم خصوصی خود به موارد زیر توجه کنید:</p> <ul> <li>روبیکا برای اهداء جوایز، هیچ هزینه‌ای از کاربران دریافت نمی‌کند. هرگونه تماس تلفنی یا مکتوب که طی آن از شما برای دریافت جایزه درخواست پرداخت وجه شود، مصداق بارز کلاهبرداری است. لطفا در صورت مواجهه با چنین تماس‌هایی، هر چه سریع‌تر موضوع را به پشتیبانی روبیکا گزارش دهید تا به آن رسیدگی شود و از تکرار چنین مواردی جلوگیری به عمل آید.</li> <li> پشتیبانی روبیکا تحت هیچ شرایطی به کد ارسالی به شماره تلفن همراه شما نیاز ندارد. هرگز این کد را در اختیار دیگران قرار ندهید؛ به خصوص کسانی که ادعا می‌کنند از طرف پشتیبانی روبیکا با شما تماس گرفته‌اند.</li> <li> پشتیبانی روبیکا تنها مرجع رسیدگی به تخلفات محتوایی کاربران و گزارش‌های مردمی است. تمام گزارش‌های مردمی تخلف، توسط کارشناسان پشتیبانی بررسی می‌شوند و تعداد گزارش‌ها نیز، تاثیری در مسدود شدن یک کاربر ندارد. هیچ کاربر دیگری قادر به مسدود کردن حساب کاربری شما نیست و حق تهدید سایر کاربران به فیلترینگ را نیز ندارد.</li> <li> تنها اکانت رسمی ارتباط روبیکا با کاربران، بات پشتیبانی روبیکا به آدرس SupportBOT@ است.</li> </ul>
+                    
+                    <p class="by-bold text-primary">اینترنت رایگان</p>
+                    <ul> <li> اینترنت رایگان موضوع بسیاری از سوالات کاربران روبیکا است. در این بخش توضیح می‌دهیم اینترنت در کدام بخش‌های روبیکا و هنگام استفاده از چه خدماتی رایگان است. به جز مواردی که در ادامه به آنها اشاره می‌شود، هزینه اینترنت در سایر بخش‌های روبیکا تمام‌بها محاسبه می‌شود.</li> </ul> <p>توجه داشته باشید که تنها در صورت استفاده از اینترنت دیتا (سیم‌کارت) همراه اول یا ایرانسل و هنگام استفاده از خدمات زیر، اینترنت برای شما رایگان خواهد بود:</p>
+                    
+                    <p class="by-bold text-primary">پیام‌رسان</p>
+                    <p>اینترنت مصرفی برای ارسال یا دریافت پیام متنی، عکس و صوت در بخش پیام‌رسان روبیکا رایگان است. توجه کنید که سایر خدمات بخش پیام‌رسان از جمله ارسال یا دریافت فیلم، پخش زنده و تماس صوتی و تصویری مشمول طرح ترافیک رایگان نمی‌شود و هزینه اینترنت آنها به صورت تمام‌بها محاسبه خواهد شد.</p>
+                    
+                    <p class="by-bold text-primary">فیلم و سریال، کودک و آموزش</p>
+                    <p>در بخش فیلم و سریال روبیکا، این امکان فراهم شده تا کاربران بدون خرید اشتراک به تماشای فیلم و سریال‌های محبوب خود بپردازند و الزامی به خرید اشتراک ماهانه وجود ندارد. در عوض، هزینه اینترنت مصرفی در این بخش، تمام‌بها محاسبه می‌شود. به زودی، گزینه خرید اشتراک ماهانه نیز به بخش فیلم و سریال روبیکا اضافه خواهد شد و در صورت خرید اشتراک، ترافیک مصرفی در این بخش برای کاربران همراه اول و ایرانسل رایگان خواهد بود. هزینه اینترنت مصرفی در بخش‌های کودک و آموزش روبیکا نیز، به صورت تمام‌بها محاسبه می‌شود.</p>
+                    
+span tag's : tedad 21
+                    
+                    <!-- نمونه تگ span استخراج شده از سایت -->
+                    <span>قوانین مهم روبیکا</span>
+                    <span>پخش زنده</span>
+                    span>تماس صوتی و تصویری</span>
+                    <span>آمار کانال‌ها</span>
+                    
+div class : tedad 275
+                    
+                    <!-- نمونه دستور div استخراج شده از سایت -->
+                    <div id="messageToast" class="toast toast-top toast-right toast-success fade">
+        <div class="toast-body">
+            <div class="toast-icon"></div>
+            <div class="toast-desc"></div>
+          </div>
+    </div>
+                    
+a tag's : tedad 56
+                    
+                    <!-- نمونه تگ a استخراج شده از سایت -->
+                    <a class=""
+                           href="/about">درباره ما</a>
+                           <a class=""
+                           href="/contact">تماس با ما</a>
+                           <a class=""
+                           href="/blog">وبلاگ</a>
+                    
+nav tag's : tedad 1
+                    
+                    <!-- نمونه تگ nav استخراج شده از سایت -->
+                    <nav class="navigation">
+                    	
+                    
+nav tag's : tedad 1
+                    
+                    <!-- نمونه تگ section استخراج شده از سایت -->
+                    <section class="vod-section">
+        <div class="container">
+            <div class="h3 vod-title">
+                <img src="/static/images/vod.svg">جدیدترین و محبوب ترین فیلم و سریال ها
+            </div>
+            <div class="by2">با سرویس فیلم و سریال روبیکا، بدون نیاز به خرید اشتراک از تماشای جدیدترین فیلم‌ و سریال‌های ایرانی و خارجی با کیفیت بالا و دوبله عالی لذت ببرید.</div>
+        </div>
+        <div class="vod-slider">
+            <div class="swiper-container vod-service-slider" dir="rtl">
+                <div class="swiper-wrapper">
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/98721-%D8%A7%DA%98%D8%AF%D9%87%D8%A7%DB%8C_%D8%A2%D8%B1%D8%B2%D9%88%D9%87%D8%A7" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/1.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/109765-%D8%B3%DA%AF_%D9%87%D8%A7%DB%8C_%D9%86%DA%AF%D9%87%D8%A8%D8%A7%D9%86" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/2.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/105968-%D9%BE%D8%A7%D8%AF%D8%B4%D8%A7%D9%87%DB%8C__%D8%A2%D8%B4%DB%8C%D9%86_%D8%B4%D9%85%D8%A7%D9%84" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/3.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/90721-%D8%AA%D9%84_%D9%85%D8%A7%D8%B3%D9%87" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/4.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/27078-%D9%85%D8%AA%D8%B1%DB%8C_%D8%B4%DB%8C%D8%B4_%D9%88_%D9%86%DB%8C%D9%85" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/5.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/109241-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/6.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/123394-%D8%A8%DA%86%D9%87_%D8%AE%D9%88%D9%86_%D8%A2%D8%B4%D8%A7%D9%85" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/7.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/series/125907-%D8%A7%DB%8C%D8%AF%D8%A7_%D8%AA%D9%88%DB%8C%DB%8C%D8%B3%D8%AA_%D8%AF%D8%A7%D9%86%D8%B4%D9%85%D9%86%D8%AF" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/8.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/92486-%D8%AE%D8%B4%D9%85_%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/9.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/series/79156-%D9%88%D8%A7%D9%86%D8%AF%D8%A7%D9%88%DB%8C%DA%98%D9%86" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/10.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/127844-%DA%A9%D9%84%D9%87_%D9%BE%D9%88%DA%A9" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/11.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/100771-%D8%A8%DA%86%D9%87_%D8%B1%DB%8C%DB%8C%D8%B3_%DB%B2__%DA%A9%D8%A7%D8%B3%D8%A8%DB%8C_%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%DA%AF%DB%8C" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/12.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/46164-%D8%A8%D8%A7%D8%A8_%E2%80%8C%D8%A7%D8%B3%D9%81%D9%86%D8%AC%DB%8C_%D8%B4%D9%84%D9%88%D8%A7%D8%B1_%D9%85%DA%A9%D8%B9%D8%A8%DB%8C" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/13.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/60413-%D9%BE%D8%B1%D9%88%DA%98%D9%87_%D9%82%D8%AF%D8%B1%D8%AA" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/14.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/79261-%D9%85%D8%A7%D8%B1%D9%BE%DB%8C%DA%86" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/15.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/72181-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%D8%AC%D9%88%DB%8C%DB%8C_%D8%AF%D8%B1_%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/16.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/series/111928-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1_%D8%B1%DA%A9%D8%B3" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/17.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/movie/123503-%DA%A9%D9%84%DB%8C%D9%81%D9%88%D8%B1%D8%AF_%D8%B3%DA%AF_%D8%A8%D8%B2%D8%B1%DA%AF_%D9%82%D8%B1%D9%85%D8%B2" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/19.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="card card-thumbnail">
+                            <div class="card-body">
+                                <a href="https://rubika.namava.ir/series/105214-%D8%B1%DB%8C%D8%AF%D9%84%DB%8C_%D8%AC%D9%88%D9%86%D8%B2" target="_blank">
+                                <img src="https://mn.rubika.ir/images/vod/20.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+------------------------------------------------------------------------------------
+<section class="cj-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7">
+                    <div class="post post-plain post-center post-featured">
+                        <div class="post-caption">
+                            <div class="post-title post-title-auto">
+                                <a href="jobs">فرصت های شغلی</a>
+                            </div>
+                            <div class="post-desc">باور داریم که کار در روبیکا فرصتی برای رشد فردی و حرفه‌ای است و صمیمانه، این فرصت را به شما پیشنهاد می‌دهیم. روبیکا همیشه علاقمند به همکاری با جوان‌های باهوش و خلاق است.</div>
+                            <div class="post-link">
+                                
+                                <a href="jobs" class="btn btn-outline-primary">اطلاعات بیشتر</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <img class="cj-img" src="https://mn.rubika.ir/images/cj.png">
+                </div>
+            </div>
+        </div>
+    </section>
+  
+header tag's : tedad 1
+                             
+                             <header class="header-section">
+        <div class="container">
+            <nav class="navigation">
+                <a class="logo" href="/home">
+                    <img src="/static/images/logo.svg">
+                </a>
+                <button id="menuToggler" class="menu-toggler">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <ul class="menu">
+                    
+                    <li class="active">
+                        
+                        <a class=""
+                           href="/home">صفحه اصلی</a>
+                    </li>
+                    
+                    <li class="">
+                        
+                        <a class=""
+                           href="/about">درباره ما</a>
+                    </li>
+                    
+                    <li class="">
+                        
+                        <a class=""
+                           href="/contact">تماس با ما</a>
+                    </li>
+                    
+                    <li class="">
+                        
+                        <a class=""
+                           href="/blog">وبلاگ</a>
+                    </li>
+                    
+                    <li class="">
+                        
+                        <a class=""
+                           href="/news">اخبار</a>
+                    </li>
+                    
+                    <li class="">
+                        
+                        <a class="btn btn-shiraz btn-mw"
+                           href="/world-cup">جام جهانی</a>
+                    </li>
+                    
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+ header tag's : tedad 1
+                            
+                            <footer class="copyright-section">
+        تمامی حقوق برای روبیکا محفوظ است.
+    </footer>
+                            
